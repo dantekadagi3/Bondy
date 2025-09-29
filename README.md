@@ -3,7 +3,7 @@
 # 📊 Bond Analysis Platform
 
 A beginner-friendly web platform for analyzing government bonds.  
-Users can upload bond prospectuses (PDF), view simplified summaries, calculate investment returns, compare bonds side by side, and generate downloadable reports.
+Users can upload bond prospectuses (in PDF format), view simplified summaries, calculate investment returns, compare bonds side by side, and generate downloadable reports.
 
 ---
 
@@ -86,7 +86,7 @@ API runs on → [http://localhost:8000](http://localhost:8000)
 
 ---
 
-## 📊 Example Workflow
+## Example Workflow
 
 1. Upload a bond prospectus PDF.
 2. System extracts bond details (coupon, maturity, tax, payment dates).
@@ -107,7 +107,7 @@ API runs on → [http://localhost:8000](http://localhost:8000)
 
 ---
 
-## 🧑‍💻 Contributing
+## Contributing
 
 1. Fork this repo.
 2. Create a feature branch: `git checkout -b feature/new-feature`
@@ -118,7 +118,7 @@ API runs on → [http://localhost:8000](http://localhost:8000)
 ---
 
 
-## 🙌 Acknowledgements
+## Acknowledgements
 
 * Central Bank of Kenya (bond prospectuses)
 * Django + Next.js community
