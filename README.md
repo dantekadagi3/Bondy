@@ -1,13 +1,13 @@
 
 ```markdown
-# 📊 Bond Analysis Platform
+#  Bond Analysis Platform
 
 A beginner-friendly web platform for analyzing government bonds.  
 Users can upload bond prospectuses (in PDF format), view simplified summaries, calculate investment returns, compare bonds side by side, and generate downloadable reports.
 
 ---
 
-## 🚀 Features
+##  Features
 - **PDF Upload & Parsing** → Extracts bond details (coupon rate, maturity, tax, etc.) automatically.  
 - **Bond Summaries** → Presents key information in simple, newbie-friendly language.  
 - **Investment Calculator** → Enter an amount and see semi-annual payouts, yearly earnings, and total maturity value.  
@@ -17,7 +17,7 @@ Users can upload bond prospectuses (in PDF format), view simplified summaries, c
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 **Frontend**
 - [Next.js](https://nextjs.org/) (React framework)
 - [Tailwind CSS](https://tailwindcss.com/) (styling)
@@ -53,13 +53,13 @@ bond-analysis-site/
 
 ## ⚡ Getting Started
 
-### 1️⃣ Clone the repository
+### 1️ Clone the repository
 ```bash
 git clone https://github.com/<your-username>/bond-analysis-site.git
 cd bond-analysis-site
 ````
 
-### 2️⃣ Frontend Setup (Next.js)
+### 2️ Frontend Setup (Next.js)
 
 ```bash
 cd frontend
@@ -69,7 +69,7 @@ npm run dev
 
 Visit → [http://localhost:3000](http://localhost:3000)
 
-### 3️⃣ Backend Setup (Django + PostgreSQL)
+### 3️ Backend Setup (Django + PostgreSQL)
 
 ```bash
 cd backend
@@ -97,7 +97,7 @@ API runs on → [http://localhost:8000](http://localhost:8000)
 
 ---
 
-## 📸 Screenshots (to add later)
+##  Screenshots (to add later)
 
 * Upload page
 * Bond detail summary
