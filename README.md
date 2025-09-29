@@ -1,16 +1,3 @@
-Perfect 🚀 — here’s a **README.md draft** plus a short **GitHub repo description** you can drop into your project.
-
----
-
-# 📄 GitHub Repo Description
-
-```
-A bond analysis platform where users can upload government bond prospectuses, view simplified summaries, run investment return calculations, compare bonds, and generate easy-to-understand reports.
-```
-
----
-
-# 📘 README.md
 
 ```markdown
 # 📊 Bond Analysis Platform
